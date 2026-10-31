@@ -1,6 +1,6 @@
 # Audio Amplifier using TDA2030
 
-**Group:** [Aryan Khatri, Pratisthit Khaniya, Shreeshant Pandit Jha, Dinanka Koirala, Shresh Khanal] | **Course:** EEEG 211 | **Instructor:** Prashant Kandel
+**Group:** Aryan Khatri, Pratisthit Khaniya, Shreeshant Pandit Jha, Dinanka Koirala, Shresh Khanal[NEED TO ADD ROLLNOs] | **Course:** EEEG 211 | **Instructor:** Prashant Kandel
 
 ## Idea / Background
 - Audio amplifier takes a weak signal (phone, laptop, mic) and boosts it enough to drive a speaker
